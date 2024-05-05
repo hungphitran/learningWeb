@@ -1,0 +1,13 @@
+/* global variable*/
+:root{
+    --txt:red;
+}
+
+h1{
+    --a: green;
+    color: var(a);
+}
+
+h2{
+    color: var(--txt);
+}

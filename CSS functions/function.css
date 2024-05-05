@@ -1,0 +1,9 @@
+*{
+   --tit: #1e90ff; 
+}
+h1{
+    color: var(--tit);
+}
+h2{
+    color: var(--tit,green);
+}
