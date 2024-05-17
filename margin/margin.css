@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.first{
+    margin-left: 30%;
+    width: 30%;
+    background-color: yellowgreen;
+    color: orange;
+    float: left;
+}
+
+.second{
+    width: 20%;
+    margin-left: 33.3%;
+    background-color: aquamarine;
+    color: brown;
+    align-items: center;
+    float: left;
+}
+
+.button{
+    width: 100%;
+    font-size: 20px;
+    background-color: red;
+}

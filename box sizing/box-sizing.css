@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: darkorchid;
+    border: 2px solid red;
+    
+    box-sizing: border-box;
+    align-items: center;
+}

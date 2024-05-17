@@ -1,0 +1,20 @@
+.p1{
+    width: 50%;
+    height: 50vh;
+    background-image: url(https://i.pinimg.com/736x/35/b6/fa/35b6fa5f83b79ebb4d5a39785fe5285e.jpg);
+    background-size: 20%;
+    background-repeat: inherit;
+}
+.p2{
+    height: 40vh;
+    background-size: 100%;
+    background-image: linear-gradient(0,red,white);
+}
+
+.p3{
+    width: 50%;
+    height: 30vh;
+    background-image: url(https://i.pinimg.com/736x/35/b6/fa/35b6fa5f83b79ebb4d5a39785fe5285e.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}
