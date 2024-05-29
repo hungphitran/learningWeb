@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(0, 255, 238);
+}
+
+h1{
+    background-color: greenyellow;
+    position:relative;
+    top: 40px;
+    left: 20px;
+}
+
+h2{
+    position:relative;
+    top: 0px;
+    left: 20px;
+}
+
+b1{
+    background-color: purple;
+    position:absolute;
+    top: 0;
+    left: 10px;
+    right:0;
+    bottom:0;
+}
+
+
+h4{
+    background-color: orange;
+    position:fixed;
+    top: 0px;
+    left: 0px;
+    right:0;
+    bottom:300px;
+}

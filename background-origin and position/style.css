@@ -1,0 +1,15 @@
+h1{
+    width: 100%;
+    height: 650px;
+    background-image: url(https://img.freepik.com/free-vector/bokeh-defocused-background_23-2148497833.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+    border: 20% red;
+    background-origin:border-box;
+}
+h2{
+    width: 100%;
+    height: 650px;
+    background-image: url(https://img.freepik.com/free-vector/bokeh-defocused-background_23-2148497833.jpg);
+    background: no-repeat center /border-box;
+}
